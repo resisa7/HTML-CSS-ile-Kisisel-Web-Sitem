@@ -14,7 +14,7 @@ h1, h2, h3 {
 	text-transform: lowercase;
 	font-family: 'Abel', sans-serif;
 	font-weight: 400;
-	color: #3FA449;
+	color: #588157;
 }
  
 h1 {
@@ -89,7 +89,7 @@ img.aligncenter {
 	height: 130px;
 	margin: 0px auto;
 	padding: 80px 0px 0px 0px;
-	color: #3FA43A;
+	color: #4c956c;
 }
  
 #logo h1, #logo p {
@@ -104,11 +104,11 @@ img.aligncenter {
 	text-align: center;
 	text-transform: lowercase;
 	font-size: 80px;
-	color: #3FA43A;
+	color: #4c956c;
 }
  
 #logo h1 a {
-	color: #73CC43;
+	color: #4c956c;
 }
  
 #logo p {
@@ -122,8 +122,9 @@ img.aligncenter {
 	border: none;
 	background: none;
 	text-decoration: none;
-	color: #3FA43A;
+	color: #588157;
 }
+
  
 /* Search */
  
@@ -163,11 +164,11 @@ img.aligncenter {
 /* Menu */
  
 #menu-wrapper {
-	width: 980px;
+	width: 525px;
 	height: 60px;
 	margin: 0px auto;
 	padding: 0px;
-	background: #3FA43A;
+	background: #4c956c;
 	border-radius: 10px;
 }
  
@@ -187,7 +188,7 @@ img.aligncenter {
 }
  
 #menu li {
-	float: left;
+	float:left;
 	margin-right: 1px;
 }
  
@@ -201,11 +202,11 @@ img.aligncenter {
  
 #menu .current_page_item a {
 	text-shadow: 2px 2px 2px rgba(0,0,0,.3);
-	background: #378C32;
+	background: #4c956c;
 }
  
 #menu a:hover {
-	background: #378C32;
+	background: #1b4332;
 	text-decoration: none;
 	text-shadow: 2px 2px 2px rgba(0,0,0,.3);
 	color: #FFFFFF;
@@ -284,12 +285,12 @@ img.aligncenter {
 	letter-spacing: -4px;
 	text-transform: lowercase;
 	font-size: 50px;
-	color: #3FA449;
+	color:#588157;
 }
  
 .post .title a {
 	border: none;
-	color: #3FA449;
+	color: #588157;
 }
  
 .post .meta {
@@ -368,7 +369,7 @@ img.aligncenter {
 	border-bottom: 1px solid #F1DAF7;
 	letter-spacing: -2px;
 	font-size: 30px;
-	color: #3FA449;
+	color: #588157;
 }
  
 #sidebar p {
@@ -457,3 +458,8 @@ img.aligncenter {
 	width: 980px;
 	margin: 30px auto 0px auto;
 }
+
+ol {
+	list-style-type: circle;;
+}
+

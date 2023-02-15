@@ -1,3 +1,4 @@
+
 body {
 	margin: 0;
 	padding: 0;
@@ -70,14 +71,14 @@ img.aligncenter {
 /* Header */
  
 #header-wrapper {
-	height: 240px;
+	height: 350px;
 	background: #3A3A3A;
 	margin-bottom: 30px;
 }
  
 #header {
 	width: 960px;
-	height: 240px;
+	height: 350px;
 	margin: 0 auto;
 }
  
@@ -85,7 +86,7 @@ img.aligncenter {
  
 #logo {
 	width: 980px;
-	height: 100px;
+	height: 130px;
 	margin: 0px auto;
 	padding: 80px 0px 0px 0px;
 	color: #3FA43A;
